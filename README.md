@@ -1,0 +1,5 @@
+# nintendo server
+
+```
+$ ./start.sh
+```
